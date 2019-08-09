@@ -29,7 +29,7 @@ You can visit http://52.68.54.242 for the website deployed.
 3. Open your terminal and type in
 	```chmod 600 ~/.ssh/udacity_key.rsa```
 4. In your terminal, type in
-	```ssh -i ~/.ssh/udacity_key.rsa grader@52.68.54.242```
+	```ssh -i ~/.ssh/udacity_key.rsa ubuntu@52.68.54.242```
 5. Development Environment Information
 
 	Public IP Address
